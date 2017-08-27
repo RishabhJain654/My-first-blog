@@ -3,7 +3,7 @@
 myFirstSite/__pycache__
 myenv
 myFirstSite/db.sqlite3
-myFirstSite/static
+myFirstSite/blog/static
 .DS_Store
 tutorial
 task
