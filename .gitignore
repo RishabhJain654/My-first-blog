@@ -1,8 +1,9 @@
 *.pyc
 *~
-__pycache__
+myFirstSite/__pycache__
 myenv
-db.sqlite3
-/static
+myFirstSite/db.sqlite3
+myFirstSite/static
 .DS_Store
 tutorial
+task
